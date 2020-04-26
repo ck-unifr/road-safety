@@ -23,5 +23,5 @@ https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-dat
 
 The repository contains:
 
-* **./notebook/accident_prediction.ipynb**: the notebook contains the steps of my solution.
-* **./slides/accident_prediction.pdf**: the slides which summarize my solution.
+* ./notebook/accident_prediction.ipynb: the notebook contains the steps of my solution.
+* ./slides/accident_prediction.pdf: the slides which summarize my solution.
