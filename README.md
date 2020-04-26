@@ -1,4 +1,4 @@
-# Police Officer Attdence Prediction
+# Police Officer Attending Prediction
 
 Author: Kai Chen
 
